@@ -5,9 +5,9 @@
 
 ✔️ 띵스플로우(Things flow) 안드로이드 개발 인턴 (2022.03 ~ 2022.05)
 
-✔️ 고려대학교 GDSC(Google Developer Student Clubs) 크루 (2022.09 ~ 현재)
+✔️ 고려대학교 GDSC(Google Developer Student Clubs) 크루 (2022.09 ~ 2024.08)
 
-✔️ 창업팀 - 타임밤(Timebomb) 앱 개발자 (2023.03 ~ 2024.04)
+✔️ 창업팀 - 타임밤(Timebomb) 앱 개발자 (2023.03 ~ 2024.06)
 
 ### 기술 스택
 
