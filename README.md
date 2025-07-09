@@ -1,6 +1,8 @@
 ## 조민서 (Minsuh Jo)
 
 ### 활동 경험
+✔️ SKALA(SK AI LEADER ACADEMY) (2025.02 ~ 2025.07)
+
 ✔️ 창업팀 - 타임밤(Timebomb) 앱 개발자 (2023.03 ~ 2024.06)
 
 ✔️ 고려대학교 GDSC(Google Developer Student Clubs) 크루 (2022.09 ~ 2024.08)
