@@ -1,6 +1,6 @@
 ## 조민서 (Minsuh Jo)
 
-### 활동 경험
+### Experience
 ✔️ SKALA(SK AI LEADER ACADEMY) (2025.02 ~ 2025.07)
 
 ✔️ 창업팀 - 타임밤(Timebomb) 앱 개발자 (2023.03 ~ 2024.06)
@@ -11,7 +11,7 @@
 
 ✔️ 카이스트 몰입캠프 2021 겨울학기 (2022.12 ~ 2022.01)
 
-### 기술 스택
+### Tech Stack
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
